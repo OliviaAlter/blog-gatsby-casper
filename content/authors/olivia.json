@@ -1,0 +1,26 @@
+{
+  "uid": "olivia",
+  "name": "Olivia",
+  "image": "/authors/olivia/image.png",
+  "url": "spinaria.xyz",
+  "location": "Planet Earth",
+  "bio": "\"Sleeping for eternity in darkness sounds better than smiling just to stop tears from falling.\"<br>- Someone from 2022 in r/SuicideWatch/",
+  "socialUrls": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/OliviaAlter"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/8_Meow_8_Meow_8"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/user/MyouriAlter"
+    },
+    {
+      "title": "E-mail",
+      "url": "mailto:myouri@proton.me"
+    }
+  ]
+}
