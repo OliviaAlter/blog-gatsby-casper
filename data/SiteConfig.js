@@ -37,24 +37,24 @@ module.exports = {
   userLinks: [
     {
       label: 'Portal',
-      url: 'https://spinaria.xyz'
+      url: 'https://myouri.cyou/'
     },
     {
       label: 'Safe',
-      url: 'https://lolisafe.spinaria.xyz'
+      url: 'https://lolisafe.myouri.cyou/'
     },
     {
       label: 'Paste',
-      url: 'https://paste.spinaria.xyz'
+      url: 'https://paste.myouri.cyou/'
     }
   ],
   // Copyright string for the footer of the website and RSS feed.
   copyright: {
     label: 'Olivia', // Label used before the year
     year: '2021-2022', // optional, defaults to current year
-    url: 'https://spinaria.xyz' // optional, set link address of copyright, defaults to site root
+    url: 'https://myouri.cyou/' // optional, set link address of copyright, defaults to site root
   },
   themeColor: '#209cee', // Used for setting manifest and progress theme colors.
   backgroundColor: '#000', // Used for setting manifest background color.
-  promoteGatsby: true // Enables the GatsbyJS promotion information in footer.
+  promoteGatsby: false // Enables the GatsbyJS promotion information in footer.
 }
