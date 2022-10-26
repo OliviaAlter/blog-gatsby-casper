@@ -21,7 +21,7 @@ We seem to be getting warnings from [core-js](https://github.com/zloirock/core-j
 I plan to get rid of Casper icons entirely, in favor of icons built manually with [Fontello](https://github.com/fontello/fontello).
 * Reduced height of splash images in posts from `65vh` to `35vh`.
 * Got rid of all Google Analytics-related codes/dependencies.
-* Updated theme to be _dark-ish_, matching the colorschemes of [lolisafe.spinaria.xyz](https://github.com/OliviaAlter/lolisafe).  
+* Updated theme to be _dark-ish_, matching the colorschemes of [safe.myouri.cyou](https://github.com/OliviaAlter/safe).  
 Though there isn't really any proper colorscheme guidelines there..
 * Better index page's pagination (auto scroll to the posts list).
 * Actually made syntax highlighting work..

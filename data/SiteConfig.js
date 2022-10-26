@@ -6,7 +6,7 @@ module.exports = {
   siteTitleAlt: 'Olivia\'s Blog', // Alternative site title for SEO.
   siteLogo: '/logos/logo-600x600.png', // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteLogoSmall: '/logos/logo-38x38.png', // Logo used on pages (top left corner)
-  siteUrl: 'https://blog.spinaria.xyz', // Domain of your website without pathPrefix.
+  siteUrl: 'https://blog.myouri.cyou', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription: '', // Website description used for RSS feeds/meta description tag.
   siteCover: '/images/ayame_bg.jpg', // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
@@ -41,7 +41,7 @@ module.exports = {
     },
     {
       label: 'Safe',
-      url: 'https://lolisafe.myouri.cyou/'
+      url: 'https://safe.myouri.cyou/'
     },
     {
       label: 'Paste',
