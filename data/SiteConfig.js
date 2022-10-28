@@ -8,7 +8,7 @@ module.exports = {
   siteLogoSmall: '/logos/logo-38x38.png', // Logo used on pages (top left corner)
   siteUrl: 'https://blog.myouri.cyou', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
-  siteDescription: '', // Website description used for RSS feeds/meta description tag.
+  siteDescription: 'A blog site for my personal hobby', // Website description used for RSS feeds/meta description tag.
   siteCover: '/images/ayame_bg.jpg', // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible.
   siteRss: '/rss.xml', // Path to the RSS file.
