@@ -16,7 +16,7 @@ module.exports = {
   siteRssNewsfeed: '/rss-newsfeed.xml', // Path to the "newsfeed" RSS file.
   siteRssNewsfeedPosts: 5, // Amount of posts to be queried for the "newsfeed" RSS file.
   sitePaginationLimit: 10, // The max number of posts per page.
-  disqusShortname: 'spinaria', // enables Disqus comments, visually deviates from original Casper theme.
+  disqusShortname: 'Olivia', // enables Disqus comments, visually deviates from original Casper theme
   siteSocialUrls: [
     {
       title: 'GitHub',
@@ -42,10 +42,6 @@ module.exports = {
     {
       label: 'Safe',
       url: 'https://safe.myouri.cyou/'
-    },
-    {
-      label: 'Paste',
-      url: 'https://paste.myouri.cyou/'
     }
   ],
   // Copyright string for the footer of the website and RSS feed.
